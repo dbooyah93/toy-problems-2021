@@ -42,7 +42,7 @@ var sortList = function( head ) {
 
   while ( reference !== undefined ) {
     recurse ( reference );
-  }
+  };
 
   return result;
 
